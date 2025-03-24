@@ -16,5 +16,6 @@
 # vendor/
 
 .idea
+.vscode
+
 checkpoints.json
-main.exe
